@@ -11,3 +11,8 @@ class Properties {
 };
 
 #endif
+
+/*
+    IMPORTANT: line #9.
+    The value of a static variable must be included in a header file.
+*/
